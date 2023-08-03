@@ -1,13 +1,39 @@
-from datetime import date
-
-# Nhập ngày sinh
-dob = input("Nhập ngày sinh của bạn (YYYY-MM-DD): ")
-
-# Lấy ngày hiện tại
-today = date.today()
-
-# Tính tuổi
-age = today.year - dob.year
-
-# In ra tuổi
-print("Tuổi của bạn là:", age)
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOZ9iULvbmKr6Q/twGZPpRa",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/pvtungk24/pvtungk24/blob/main/tinhtuoi.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "xLKXTr6Z35H_"
+      },
+      "outputs": [],
+      "source": []
+    }
+  ]
+}
